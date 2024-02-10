@@ -1,0 +1,12 @@
+{
+    "name": "wpps/wp-plugin-starter",
+    "description": "Starter files for a WordPress plugin",
+    "type": "project",
+    "license": "GPLv3",
+    "autoload": {
+        "psr-4": {
+            "WPPS\\": "includes/"
+        }
+    },
+    "require": {}
+}
